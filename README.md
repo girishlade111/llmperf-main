@@ -25,3 +25,7 @@ Dev requirements: `requirements-dev.txt`, `pyproject.toml`.
 
 ## License
 See `LICENSE.txt` / `NOTICE.txt` (Ray Project).
+
+---
+
+*Built by Girish Lade — [ladestack.in](https://ladestack.in)*
